@@ -13,7 +13,7 @@ using Org.BouncyCastle.Crypto.Engines;
 using System.Data.Common;
 using Tri_D;
 
-//Test Push - Jim a
+//Test Push - Jim Maido
 
 namespace Tri_D
 {
